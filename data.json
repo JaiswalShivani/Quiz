@@ -1,0 +1,44 @@
+{
+  "question": [
+    "Q1. What is the maximum possible length of an identifier?",
+    "Q2. In which language is Python written?",
+    "Q3. What is a python file with .py extension called?",
+    "Q4. What is the data type of print(type(0xFF))?",
+    "Q5  Which statement is correct?"
+  ],
+  "answer": [
+    4,
+    1,
+    1,
+    1,
+    2
+  ],
+  "options": [
+    [ "31 Character",
+      "63 Character",
+     "73 Character",
+     "Any length"
+    ],
+    ["C",
+      "C++",
+      "PHP",
+      "All of the above"
+    ],
+    ["Module",
+      "Package",
+      "Directory",
+      "None of the above"
+    ],
+    ["int",
+      "hex",
+      "hexint",
+      "number"
+    ],
+    [
+      "List is immutable && Tuple is mutable",
+      "List is mutable && Tuple is immutable",
+      "Both are Mutable.",
+      "Both are Immutable"
+    ]
+  ]
+}
